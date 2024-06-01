@@ -2,7 +2,7 @@
 layout: post
 title:  "Pasta alla Norma"
 date:   2024-06-01 21:27:27 +0100
-categories: recipes pasta aubergine tomatoes
+categories: recipes
 ---
 Serves 2
 ## Ingredients
