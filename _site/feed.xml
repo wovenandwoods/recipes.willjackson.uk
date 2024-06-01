@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://recipes.willjackson.uk/feed.xml" rel="self" type="application/atom+xml" /><link href="https://recipes.willjackson.uk/" rel="alternate" type="text/html" /><updated>2024-06-01T20:58:01+00:00</updated><id>https://recipes.willjackson.uk/feed.xml</id><title type="html">Recipes Approved by Georgie</title><subtitle>Here. Find recipes. No spice. No olives. Georgie approves (kind of).</subtitle><entry><title type="html">Mujadara</title><link href="https://recipes.willjackson.uk/recipes/lentils/rice/2024/06/01/mujadara.html" rel="alternate" type="text/html" title="Mujadara" /><published>2024-06-01T20:27:27+00:00</published><updated>2024-06-01T20:27:27+00:00</updated><id>https://recipes.willjackson.uk/recipes/lentils/rice/2024/06/01/mujadara</id><content type="html" xml:base="https://recipes.willjackson.uk/recipes/lentils/rice/2024/06/01/mujadara.html"><![CDATA[<p>Feeds 4</p>
+<h2 id="rice-and-lentils">Rice and Lentils</h2>
+
+<h3 id="ingredients">Ingredients</h3>
+<ul>
+  <li>Olive oil</li>
+  <li>2 medium onions, thinly sliced</li>
+  <li>150g brown or green lentils</li>
+  <li>100g basmati rice</li>
+  <li>1 tsp ground cumin</li>
+  <li>1 tsp ground coriander</li>
+  <li>1/4 tsp ground turmeric</li>
+  <li>1 tsp ground allspice</li>
+  <li>1tsp ground cinnamon</li>
+  <li>1/2 tsp sugar</li>
+  <li>Salt and pepper</li>
+  <li>175ml water</li>
+</ul>
+
+<h3 id="method">Method</h3>
+<ol>
+  <li>Put the lentils in a small saucepan and cover with water. Bring to a boil and cook for 12-15 minutes until soft but not completely cooked.</li>
+  <li>When the lentils are cooked, drain them and set to one side.</li>
+  <li>Cover the bottom of the pan with olive and gently fry the onions until brown and crispy. This will take about half an hour.</li>
+  <li>Remove the onions to a paper towel.</li>
+  <li>Pour the rice into the pan you cooked the onions in, along with the spices.</li>
+  <li>Gently fry the rice and spices for a minute or two.</li>
+  <li>Add the cooked lentils to the pan, along with the water.</li>
+  <li>Bring to a boil, cover and simmer on very low heat for 15 minutes.</li>
+  <li>Remove the pan from the heat, lift the lid and cover the pan with a clean tea towel. Seal tightly with the lid and set aside for 10 minutes.</li>
+  <li>Add half the fried onion and stir gently.</li>
+</ol>
+
+<h2 id="salad">Salad</h2>
+
+<h3 id="ingredients-1">Ingredients</h3>
+<ul>
+  <li>1/3 of a cucumber, finely chopped</li>
+  <li>1 large vine tomato, finely chopped</li>
+  <li>Olive oil</li>
+  <li>Salt and pepper</li>
+</ul>
+
+<h3 id="method-1">Method</h3>
+<ol>
+  <li>Put all of the ingredients into a bowl and stir</li>
+</ol>
+
+<h2 id="yoghurt">Yoghurt</h2>
+
+<h3 id="ingredients-2">Ingredients</h3>
+<ul>
+  <li>Half a pot of Greek yoghurt</li>
+  <li>1/3 cucumber, finely chopped</li>
+  <li>1 clove of garlic, minced</li>
+  <li>1 teaspoon of fresh dill, finely chopped</li>
+  <li>1/2 tsp salt</li>
+  <li>Juice of half a lemon</li>
+</ul>
+
+<h3 id="method-2">Method</h3>
+<ol>
+  <li>Put all of the ingredients into a bowl and stir</li>
+</ol>]]></content><author><name></name></author><category term="recipes" /><category term="lentils" /><category term="rice" /><summary type="html"><![CDATA[Feeds 4 Rice and Lentils]]></summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="https://recipes.willjackson.uk/jekyll/update/2024/06/01/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2024-06-01T20:27:27+00:00</published><updated>2024-06-01T20:27:27+00:00</updated><id>https://recipes.willjackson.uk/jekyll/update/2024/06/01/welcome-to-jekyll</id><content type="html" xml:base="https://recipes.willjackson.uk/jekyll/update/2024/06/01/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+
+<p>Jekyll requires blog post files to be named according to the following format:</p>
+
+<p><code class="language-plaintext highlighter-rouge">YEAR-MONTH-DAY-title.MARKUP</code></p>
+
+<p>Where <code class="language-plaintext highlighter-rouge">YEAR</code> is a four-digit number, <code class="language-plaintext highlighter-rouge">MONTH</code> and <code class="language-plaintext highlighter-rouge">DAY</code> are both two-digit numbers, and <code class="language-plaintext highlighter-rouge">MARKUP</code> is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+
+<p>Jekyll also offers powerful support for code snippets:</p>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
+  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
+<span class="k">end</span>
+<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
+<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+
+<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.]]></summary></entry></feed>
