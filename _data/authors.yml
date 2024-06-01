@@ -1,0 +1,17 @@
+Will Jackson:
+  name        : "Will Jackson"
+  bio         : "I am a very extravagant man."
+  avatar      : "/assets/images/gorgzilla.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:will@willjackson.uk"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://willjackson.uk"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/extravagantmanwe_jackson"
+    - label: "Instagram"
+      icon: "fab fa-fw ga-instagram-square"
+      url: "https://instagram.com/willjackson.uk"
