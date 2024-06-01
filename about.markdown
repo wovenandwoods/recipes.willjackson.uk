@@ -3,9 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-## About Georgie's Gastronomic Gulag
-
 Welcome, intrepid gourmands (assuming you can stomach a world without sriracha). This blog chronicles the fortunate few recipes that have survived Georgie's iron-fisted culinary regime.
 
 **Georgie: Who is She and Why Should You Care?**
