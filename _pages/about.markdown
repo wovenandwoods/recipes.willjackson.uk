@@ -2,6 +2,8 @@
 layout: single
 title: About
 permalink: /about/
+author_profile: true
+
 ---
 Welcome, intrepid gourmands (assuming you can stomach a world without sriracha). This blog chronicles the fortunate few recipes that have survived Georgie's iron-fisted culinary regime.
 

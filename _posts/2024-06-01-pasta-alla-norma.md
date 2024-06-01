@@ -1,9 +1,10 @@
 ---
 layout: single
 title:  "Pasta alla Norma"
-author: "Will Jackson"
 date:   2024-06-01 21:27:27 +0100
 categories: recipes
+author_profile: true
+
 ---
 Serves 2
 ## Ingredients
