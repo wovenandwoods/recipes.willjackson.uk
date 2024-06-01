@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://recipes.willjackson.uk/feed.xml" rel="self" type="application/atom+xml" /><link href="https://recipes.willjackson.uk/" rel="alternate" type="text/html" /><updated>2024-06-01T20:58:01+00:00</updated><id>https://recipes.willjackson.uk/feed.xml</id><title type="html">Recipes Approved by Georgie</title><subtitle>Here. Find recipes. No spice. No olives. Georgie approves (kind of).</subtitle><entry><title type="html">Mujadara</title><link href="https://recipes.willjackson.uk/recipes/lentils/rice/2024/06/01/mujadara.html" rel="alternate" type="text/html" title="Mujadara" /><published>2024-06-01T20:27:27+00:00</published><updated>2024-06-01T20:27:27+00:00</updated><id>https://recipes.willjackson.uk/recipes/lentils/rice/2024/06/01/mujadara</id><content type="html" xml:base="https://recipes.willjackson.uk/recipes/lentils/rice/2024/06/01/mujadara.html"><![CDATA[<p>Feeds 4</p>
-<h2 id="rice-and-lentils">Rice and Lentils</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://recipes.willjackson.uk/feed.xml" rel="self" type="application/atom+xml" /><link href="https://recipes.willjackson.uk/" rel="alternate" type="text/html" /><updated>2024-06-01T21:29:55+00:00</updated><id>https://recipes.willjackson.uk/feed.xml</id><title type="html">Recipes Approved by Georgie</title><subtitle>Here. Find recipes. No spice. No olives. Georgie approves (kind of).</subtitle><entry><title type="html">Mujadara</title><link href="https://recipes.willjackson.uk/recipes/lentils/rice/2024/06/01/mujadara.html" rel="alternate" type="text/html" title="Mujadara" /><published>2024-06-01T20:27:27+00:00</published><updated>2024-06-01T20:27:27+00:00</updated><id>https://recipes.willjackson.uk/recipes/lentils/rice/2024/06/01/mujadara</id><content type="html" xml:base="https://recipes.willjackson.uk/recipes/lentils/rice/2024/06/01/mujadara.html"><![CDATA[<p>Serves 4</p>
 
 <h3 id="ingredients">Ingredients</h3>
 <ul>
@@ -61,20 +60,31 @@
 <h3 id="method-2">Method</h3>
 <ol>
   <li>Put all of the ingredients into a bowl and stir</li>
-</ol>]]></content><author><name></name></author><category term="recipes" /><category term="lentils" /><category term="rice" /><summary type="html"><![CDATA[Feeds 4 Rice and Lentils]]></summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="https://recipes.willjackson.uk/jekyll/update/2024/06/01/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2024-06-01T20:27:27+00:00</published><updated>2024-06-01T20:27:27+00:00</updated><id>https://recipes.willjackson.uk/jekyll/update/2024/06/01/welcome-to-jekyll</id><content type="html" xml:base="https://recipes.willjackson.uk/jekyll/update/2024/06/01/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+</ol>]]></content><author><name></name></author><category term="recipes" /><category term="lentils" /><category term="rice" /><summary type="html"><![CDATA[Serves 4]]></summary></entry><entry><title type="html">Pasta alla Norma</title><link href="https://recipes.willjackson.uk/recipes/pasta/aubergine/tomatoes/2024/06/01/pasta-alla-norma.html" rel="alternate" type="text/html" title="Pasta alla Norma" /><published>2024-06-01T20:27:27+00:00</published><updated>2024-06-01T20:27:27+00:00</updated><id>https://recipes.willjackson.uk/recipes/pasta/aubergine/tomatoes/2024/06/01/pasta-alla-norma</id><content type="html" xml:base="https://recipes.willjackson.uk/recipes/pasta/aubergine/tomatoes/2024/06/01/pasta-alla-norma.html"><![CDATA[<p>Serves 2</p>
+<h2 id="ingredients">Ingredients</h2>
+<ul>
+  <li>Olive Oil</li>
+  <li>1 aubergine, cut into 1x1 cm strips</li>
+  <li>200g pasta</li>
+  <li>1 tin of tomatoes</li>
+  <li>3 cloves of garlic, finely chopped</li>
+  <li>25g basil</li>
+  <li>Ricotta salata (or pecorino)</li>
+  <li>A pinch of dried chili flakes</li>
+</ul>
 
-<p>Jekyll requires blog post files to be named according to the following format:</p>
-
-<p><code class="language-plaintext highlighter-rouge">YEAR-MONTH-DAY-title.MARKUP</code></p>
-
-<p>Where <code class="language-plaintext highlighter-rouge">YEAR</code> is a four-digit number, <code class="language-plaintext highlighter-rouge">MONTH</code> and <code class="language-plaintext highlighter-rouge">DAY</code> are both two-digit numbers, and <code class="language-plaintext highlighter-rouge">MARKUP</code> is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
-
-<p>Jekyll also offers powerful support for code snippets:</p>
-
-<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
-  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
-<span class="k">end</span>
-<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
-<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
-
-<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.]]></summary></entry></feed>
+<h2 id="method">Method</h2>
+<ol>
+  <li>Put the sliced aubergine in a colander and sprinkle with salt. Leave to sit for 30 minutes.</li>
+  <li>Heat the oven to 200ºC.</li>
+  <li>Rinse the aubergine and pat dry with a kitchen towel.</li>
+  <li>Spread the aubergine on a baking tray and drizzle with olive oil. Toss to ensure all the aubergine is covered.</li>
+  <li>Put the baking tray into the over for about 20-30 minutes.</li>
+  <li>Heat some olive oil in a fry pan and gently fry the garlic and chili flakes.</li>
+  <li>Add the tomatoes and the basil and bring to a simmer.</li>
+  <li>Turn down the heat and cook slowly for 20-30 minutes.</li>
+  <li>Cook the pasta in salted water, until just done.</li>
+  <li>Drain the pasta and stir into the sauce, along with the aubergine.</li>
+  <li>Sprinkle over the cheese and stir in a splash of the pasta cooking water.</li>
+  <li>Serve with more cheese and a drizzle of olive oil.</li>
+</ol>]]></content><author><name></name></author><category term="recipes" /><category term="pasta" /><category term="aubergine" /><category term="tomatoes" /><summary type="html"><![CDATA[Serves 2 Ingredients Olive Oil 1 aubergine, cut into 1x1 cm strips 200g pasta 1 tin of tomatoes 3 cloves of garlic, finely chopped 25g basil Ricotta salata (or pecorino) A pinch of dried chili flakes]]></summary></entry></feed>
