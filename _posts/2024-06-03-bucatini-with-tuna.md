@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Bucatini with Chili"
+title:  "Bucatini with Tuna"
 date:   2024-06-03 15:00:00 +0100
 categories: recipes
 author_profile: true
