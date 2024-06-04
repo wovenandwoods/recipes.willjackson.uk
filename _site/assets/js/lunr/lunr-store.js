@@ -11,7 +11,7 @@ var store = [{
         "url": "/recipes/2024/06/01/pasta-alla-norma.html",
         "teaser": "/assets/images/gorgzilla.jpeg"
       },{
-        "title": "Bucatini with Chili",
+        "title": "Bucatini with Tuna",
         "excerpt":"Serves 2 Ingredients 200g bucatini (can also be done with spaghetti or linguini) 1 large clove garlic 1 fresh red chili (or a pinch of dried chili flakes) 2 anchovy fillets 4 ripe cherry tomatoes Extra virgin olive oil 1 x 180g tin of tuna in olive oil 1 tablespoon...","categories": ["recipes"],
         "tags": [],
         "url": "/recipes/2024/06/03/bucatini-with-tuna.html",
