@@ -35,7 +35,7 @@ var store = [{
         "url": "/recipes/2024/06/05/13-00-pasta-e-fagioli.html",
         "teaser": "/assets/images/gorgzilla.jpeg"
       },{
-        "title": "Pasta e Cecii",
+        "title": "Pasta e Ceci",
         "excerpt":"Serves 2 Ingredients 1 tin of chickpeas, drained 1 onion 1 stick of celery Olive oil Sprig of rosemary 1 tsp tomato puree 1 bay leaf Pinch of dried chili flakes Parmesan 150g small pasta 500ml stock Method Add the olive oil to a pan and gently fry the onion,...","categories": ["recipes"],
         "tags": [],
         "url": "/recipes/2024/06/06/13-00-pasta-e-ceci.html",
