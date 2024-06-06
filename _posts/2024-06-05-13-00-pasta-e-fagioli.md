@@ -11,6 +11,7 @@ Serves 2
 * 1 stick of celery, diced
 * 1 carrot, diced
 * 1 onion, diced
+* 2 cloves of garlic, diced
 * Sprig of rosemary
 * Olive oil
 * A few strips of pancetta, diced
@@ -24,6 +25,7 @@ Serves 2
 ## Method
 1. Add the olive oil to a pan and gently fry the onion, celery and carrot until soft. 
 2. Add the pancetta and continue to fry until it releases its fat. 
+3. Add the garlic and gently fry for a few minutes. 
 3. Stir in the tomatoes, chili flakes, beans and stock. 
 4. Using a hand blender, partially blend about a quarter of the beans. 
 5. If you have a parmesan rind, add this to the pan along with a bay leaf. 
