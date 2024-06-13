@@ -32,24 +32,24 @@ var store = [{
         "title": "Pasta e Fagioli",
         "excerpt":"Serves 2 Ingredients 1 tin borlotti beans, drained 1 stick of celery, diced 1 carrot, diced 1 onion, diced 2 cloves of garlic, diced Sprig of rosemary Olive oil A few strips of pancetta, diced 1 tin of plum tomatoes 500ml good stock 1 bay leaf A pinch of dried...","categories": ["recipes"],
         "tags": [],
-        "url": "/recipes/2024/06/05/13-00-pasta-e-fagioli.html",
+        "url": "/recipes/2024/06/05/pasta-e-fagioli.html",
         "teaser": "/assets/images/gorgzilla.jpeg"
       },{
         "title": "Pasta e Ceci",
         "excerpt":"Serves 2 Ingredients 1 tin of chickpeas, drained 1 onion 1 stick of celery Olive oil Sprig of rosemary 1 tsp tomato puree 1 bay leaf Pinch of dried chili flakes Parmesan 150g small pasta 500ml stock Method Add the olive oil to a pan and gently fry the onion,...","categories": ["recipes"],
         "tags": [],
-        "url": "/recipes/2024/06/06/13-00-pasta-e-ceci.html",
-        "teaser": "/assets/images/gorgzilla.jpeg"
-      },{
-        "title": "Gigantes Plaki",
-        "excerpt":" ","categories": [],
-        "tags": [],
-        "url": "/2024/06/13/gigantes-plaki.html",
+        "url": "/recipes/2024/06/06/pasta-e-ceci.html",
         "teaser": "/assets/images/gorgzilla.jpeg"
       },{
         "title": "Cheddar and Leek Orzotto",
         "excerpt":"Serves 2 Ingredients 1 large leek, washed and trimmed 20g unsalted butter Splash of olive oil 1 large clove of garlic, finely chopped 150g orzo pasta 500ml chicken or vegetable stock 100g petit pois 80g cheddar Method Halve the leek lengthways, then halve again into quarters and finely slice. Heat...","categories": ["recipes"],
         "tags": [],
         "url": "/recipes/2024/06/13/cheddar-and-leek-orzotto.html",
+        "teaser": "/assets/images/gorgzilla.jpeg"
+      },{
+        "title": "Gigantes Plaki",
+        "excerpt":"Feeds 2 Ingredients 250g dried gigantes or butter beans 3/4 tsp tbsp flaky salt, plus extra to serve 1 bay leaf 1/2 cinnamon stick 1 garlic clove, peeled 25ml extra-virgin olive oil, plus more to serve 1/2 large onion, peeled and finely chopped 1 celery stick, trimmed and finely chopped...","categories": ["recipes"],
+        "tags": [],
+        "url": "/recipes/2024/06/13/gigantes-plaki.html",
         "teaser": "/assets/images/gorgzilla.jpeg"
       }]
