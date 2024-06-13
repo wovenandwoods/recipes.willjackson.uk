@@ -41,6 +41,12 @@ var store = [{
         "url": "/recipes/2024/06/06/13-00-pasta-e-ceci.html",
         "teaser": "/assets/images/gorgzilla.jpeg"
       },{
+        "title": "Gigantes Plaki",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/2024/06/13/gigantes-plaki.html",
+        "teaser": "/assets/images/gorgzilla.jpeg"
+      },{
         "title": "Cheddar and Leek Orzotto",
         "excerpt":"Serves 2 Ingredients 1 large leek, washed and trimmed 20g unsalted butter Splash of olive oil 1 large clove of garlic, finely chopped 150g orzo pasta 500ml chicken or vegetable stock 100g petit pois 80g cheddar Method Halve the leek lengthways, then halve again into quarters and finely slice. Heat...","categories": ["recipes"],
         "tags": [],
