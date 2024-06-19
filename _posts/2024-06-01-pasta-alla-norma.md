@@ -5,6 +5,8 @@ date:   2024-06-01 21:27:27 +0100
 categories: recipes
 author_profile: true
 ---
+Pasta in a tomato sauce with cheese and roasted aubergine.
+
 Serves 2
 ## Ingredients
 * Olive Oil

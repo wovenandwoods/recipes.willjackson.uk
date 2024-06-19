@@ -5,6 +5,8 @@ date:   2024-06-03 15:20:00 +0100
 categories: recipes
 author_profile: true
 ---
+Eggs poached in a spicy tomato and pepper sauce. 
+
 Serves 2
 ## Ingredients
 * 2 tbsp. olive oil

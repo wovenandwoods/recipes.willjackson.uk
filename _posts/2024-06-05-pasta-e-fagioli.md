@@ -5,6 +5,8 @@ date:   2024-06-05 13:00:00 +0100
 categories: recipes
 author_profile: true
 ---
+Pasta and beans in a tomato sauce. 
+
 Serves 2
 ## Ingredients
 * 1 tin borlotti beans, drained

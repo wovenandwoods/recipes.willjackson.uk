@@ -5,6 +5,8 @@ date:   2024-06-03 15:00:00 +0100
 categories: recipes
 author_profile: true
 ---
+Pasta with tuna, chili and capers. 
+
 Serves 2
 ## Ingredients
 * 200g bucatini (can also be done with spaghetti or linguini)

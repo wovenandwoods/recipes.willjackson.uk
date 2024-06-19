@@ -5,6 +5,8 @@ date:   2024-06-18 10:00:00 +0100
 categories: recipes
 author_profile: true
 ---
+Pasta with peas, garlic and mint. 
+
 Feeds 2
 ## Ingredients
 * 1 onion, diced

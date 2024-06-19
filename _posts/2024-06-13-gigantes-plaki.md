@@ -5,6 +5,8 @@ date:   2024-06-13 18:00:00 +0100
 categories: recipes
 author_profile: true
 ---
+Butter beans in a tomato sauce. 
+
 Feeds 2
 ## Ingredients
 * 250g dried gigantes or butter beans
