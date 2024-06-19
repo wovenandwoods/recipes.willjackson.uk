@@ -52,4 +52,16 @@ var store = [{
         "tags": [],
         "url": "/recipes/2024/06/13/gigantes-plaki.html",
         "teaser": "/assets/images/gorgzilla.jpeg"
+      },{
+        "title": "Ciambotta",
+        "excerpt":"Feeds 2 Ingredients 1 onion, sliced 2 peppers (yellow and red), sliced 1 clove of garlic, sliced Half a small red chili, chopped (or a pinch or dried chili flakes) 1 large potato, peeled and cut into wedges 500g tomatoes, diced (or a tin of drained plum tomatoes) 3-5 tbsp...","categories": ["recipes"],
+        "tags": [],
+        "url": "/recipes/2024/06/18/ciambotta.html",
+        "teaser": "/assets/images/gorgzilla.jpeg"
+      },{
+        "title": "Pasta e Piselli",
+        "excerpt":"Feeds 2 Ingredients 1 onion, diced 1 clove of garlic, diced Pinch of dried chili flakes 100g pasta Handful of frozen peas 1 bunch of mint leaves, roughly chopped Olive oil Pecorino Method Put a pan of salted water on to boil and boil the pasta until just done. Heat...","categories": ["recipes"],
+        "tags": [],
+        "url": "/recipes/2024/06/18/pasta-e-piselli.html",
+        "teaser": "/assets/images/gorgzilla.jpeg"
       }]
